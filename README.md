@@ -1,7 +1,7 @@
 # 15_comets
 A simple python3 program to retrieve comet information from the internet; and display the 15 brightest comets currently in the night sky
 
-"""
+
 ----------------------------------------------------------------------
 Name:        Comet_table.py
 Purpose:     To Download current data on comets from internet,
@@ -29,7 +29,4 @@ Sorts file by magnitude of the objects,
 Displays the 15 brightest comets currently in the sky.  
 It requires pyephem for its calculations.
 Created on Thu Oct  2 08:38:59 2014
-# -*- coding: utf-8 -*-
 
-
-"""

@@ -12,7 +12,7 @@ Author: John Duchek, john.duchek@asemonline.org
 Created:     October 27, 2014
 Last Updated:  August 13, 2017
  
- Copyright:   (c) 2014-6 John Duchek
+ 
  Outline:
  1. goes on internet to minor planet center and downloads current comet data
  (http://www.minorplanetcenter.net/iau/Ephemerides/Comets/Soft03Cmt.txt)
